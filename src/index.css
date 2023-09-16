@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:wght@700;900&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Barlow", "Fraunces", system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
+  line-height: 1.5;
+  font-size: 18px;
+
+  /*### Primary*/
+  --color-soft-red: hsl(7, 99%, 70%);
+  --color-yellow: hsl(51, 100%, 49%);
+
+  /*graphic design text*/
+  --color-dark-desaturated-cyan: rgb(37, 86, 75);
+
+  /*photography text*/
+  --color-dark-blue: rgb(25, 83, 107);
+
+  /*footer*/
+  --color-dark-moderate-cyan: hsl(168, 34%, 41%);
+
+  /*### Neutral*/
+  --color-very-dark-desaturated-blue: hsl(212, 27%, 19%);
+  --color-very-dark-grayish-blue: hsl(213, 9%, 39%);
+  --color-dark-grayish-blue: hsl(232, 10%, 55%);
+  --color-grayish-blue: hsl(210, 4%, 67%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-cyan: hsl(190, 100%, 50%);
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2.25em;
+}
+
+h3 {
+  font-size: 1.8em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+#root {
+  padding: 0;
+  margin: 0;
+  min-height: 200vh;
+}
