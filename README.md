@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/MohammedHelal/sunnyside-agency-landing-page)
-- Live Site URL: [Live site](https://github.com/MohammedHelal/sunnyside-agency-landing-page)
+- Live Site URL: [Live site](https://mohammedhelal.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
